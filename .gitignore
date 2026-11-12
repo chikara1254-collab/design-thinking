@@ -1,0 +1,8 @@
+# Local book sources and personal artifacts
+assets/
+*.pdf
+*ocr*
+source-manifest.json
+__pycache__/
+.env
+.env.*

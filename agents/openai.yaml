@@ -1,0 +1,6 @@
+interface:
+  display_name: "デザイン思考"
+  short_description: "本を土台に、異なる専門視点のAIが発案・相互批評・改善を繰り返す"
+  default_prompt: "$design-thinking を使い、複数の専門視点のエージェントでこの問題の発案・相互批評・改善を繰り返し、解決案と小さく試す方法まで具体化してください。"
+policy:
+  allow_implicit_invocation: true
